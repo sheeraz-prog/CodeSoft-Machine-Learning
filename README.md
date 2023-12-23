@@ -1,6 +1,6 @@
-# Data Science Projects
+# Machine Learning Internship Projects
 
-Welcome to my Data Science portfolio! Below are some of the projects I've worked on:
+Welcome to my Machine Learning and Data Science portfolio! Below are some of the projects I've worked on:
 
 ## 1. Credit Card Fraud Detection
 
